@@ -20,9 +20,9 @@
 <br>
 
 
-- 🔭 I’m currently working on my own website called [Codeisinvalid](codeisinvalid.com)
+- 🔭 I’m currently working on my own website called [Codeisinvalid](https://www.codeisinvalid.com)
 
-- 📝 I regularly write articles on [codeisinvalid.com](codeisinvalid.com)
+- 📝 I regularly write articles on [codeisinvalid.com](https://www.codeisinvalid.com)
 
 - 💬 Ask me about **Android and Java mainly.**
 
