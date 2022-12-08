@@ -4,7 +4,7 @@
     <img src="https://codeisinvalid.com/wp-content/uploads/2022/12/codeisinvalid-1-6-87x87.png" alt="Logo" width="100" height="100">
   </a>
 </div>
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, your Codeisinvalid.</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I am Sooj and your Codeisinvalid.</h1>
 
 <h3 align="center">We help you to make it work. So, let's code valid!</h3>
 
@@ -20,13 +20,13 @@
 <br>
 
 
-- 🔭 I’m currently working on my own website called [Codeisinvalid](https://www.codeisinvalid.com)
+- 🔭 I’m currently working on my own website called [codeisinvalid.com](https://www.codeisinvalid.com)
 
 - 📝 I regularly write articles on [codeisinvalid.com](https://www.codeisinvalid.com)
 
 - 💬 Ask me about **Android and Java mainly.**
 
-- 📫 How to reach me: **soojksh@gmail.com**
+- 📫 How to reach me: **info@codeisinvalid.com** and **soojksh@gmail.com**
 
 - ⚡ Fun fact **name is codeisinvalid, but I code valid.**
 
