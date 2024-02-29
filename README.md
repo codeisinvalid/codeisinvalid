@@ -26,7 +26,7 @@
 
 - 📝 I regularly write articles on [codeisinvalid.com](https://www.codeisinvalid.com)
 
-- 🌱 I’m currently learning **Spring Framework.**
+- 🌱 I’m currently learning **Django.**
 
 - 💬 Ask me about **Android and Java mainly.**
 
